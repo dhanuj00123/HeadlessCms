@@ -27,7 +27,7 @@ A flexible and secure headless CMS backend built with Node.js that enables conte
 - API Key Authentication
 - Comprehensive API Documentation
 - JSON-based Responses
-- Query Parameters for Filtering & Sorting
+
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ A flexible and secure headless CMS backend built with Node.js that enables conte
 - **Database**: MongoDB
 - **Authentication**: Passport.js with Google OAuth
 - **Documentation**: Swagger UI
-- **Testing**: Jest
+
 
 ## 📋 Prerequisites
 
@@ -64,7 +64,7 @@ npm install
 ```
 
 3. Create `.env` file in the root directory:
-
+    and copy example.env and update the credentials
 ```bash
 env
 PORT=3000
