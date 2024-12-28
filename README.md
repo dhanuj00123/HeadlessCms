@@ -107,7 +107,7 @@ Access the Swagger documentation at: `http://localhost:3000/api-docs`
 - `PUT /api/users/:id` - Update user
 - `DELETE /api/users/:id` - Delete user
 
-#### Content Types
+#### Content Types (Not started yet)
 
 - `POST /api/content-types` - Create content type
 - `GET /api/content-types` - List all content types
