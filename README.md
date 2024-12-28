@@ -12,7 +12,7 @@ A flexible and secure headless CMS backend built with Node.js that enables conte
 - [API Documentation](#-api-documentation)
   - [Key Endpoints](#key-endpoints)
   - [API Key Authentication](#-api-key-authentication)
-  - [Content Type Example](#-content-type-example)
+  - [Content Type Example](#-Content-Types-(Not-started-yet))
   - [Query Parameters](#-query-parameters)
 - [User Roles](#-user-roles)
 
