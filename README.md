@@ -38,7 +38,7 @@ git clone https://github.com/dhanuj00123/HeadlessCms
 ```
 
 ```bash
-cd headless-cms-backend
+cd HeadlessCms
 ```
 
 2. Install dependencies:
