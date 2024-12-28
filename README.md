@@ -2,6 +2,22 @@
 
 A flexible and secure headless CMS backend built with Node.js that enables content management through RESTful APIs with Google OAuth authentication.
 
+## 📑 Contents
+
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [Prerequisites](#-prerequisites)
+- [Installation](#️-installation)
+- [Running the Application](#️-running-the-application)
+- [API Documentation](#-api-documentation)
+  - [Key Endpoints](#key-endpoints)
+  - [API Key Authentication](#-api-key-authentication)
+  - [Content Type Example](#-content-type-example)
+  - [Query Parameters](#-query-parameters)
+- [User Roles](#-user-roles)
+
+- [Future Enhancements](#-future-enhancements)
+
 ## 🚀 Features
 
 - Google OAuth Authentication
