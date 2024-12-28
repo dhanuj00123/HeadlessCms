@@ -34,7 +34,7 @@ A flexible and secure headless CMS backend built with Node.js that enables conte
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dhanuj00123/HeadlessCms
 ```
 
 ```bash
